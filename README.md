@@ -292,9 +292,7 @@ Data Source
 
 The dataset was sourced from Kaggle and used for educational and portfolio purposes.
 
- 📷 Dashboard Preview
-
-
+ 📷 Dashboard Preview  (https://github.com/Himanshurajput613/Mobile-Sales-Analysis-/blob/main/Mobile%20Sales%20Analysis%20Dashboard.png)
 
 
 🚀 Project Outcome
