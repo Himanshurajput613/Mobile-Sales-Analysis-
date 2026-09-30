@@ -1,12 +1,12 @@
-# 📱 Mobile Sales Analysis Dashboard | Power BI
+ 📱 Mobile Sales Analysis Dashboard | Power BI
 
-Interactive Business Intelligence Dashboard for Mobile Sales Performance Analysis**
+Interactive Business Intelligence Dashboard for Mobile Sales Performance Analysis
 
 
 
  📌 Project Overview
 
-This project is an interactive Mobile Sales Analysis Dashboard developed in Microsoft Power BI**.
+This project is an interactive Mobile Sales Analysis Dashboard developed in Microsoft Power BI
 
 The objective is to transform raw mobile sales transactions into meaningful business insights that help stakeholders understand sales performance, product performance, geographic trends, customer behaviour, payment preferences, and sales patterns over time.
 
